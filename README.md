@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://www.dreamstime.com/)
 <h1 align="center">Hi 👋, I'm Daud Fernando</h1>
-<h3 align="center">A passionate tech data related from Indonesia</h3>
+<h3 align="center">A passionate tech data guy related from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Tender+](tenderplus.id)
